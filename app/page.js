@@ -6,7 +6,7 @@ import "./page.css";
 export default function Home() {
   const send = () => {
     toast.success(
-      "Due to ongoing exams, I had limited time to work on the internship task, so please overlook any incomplete parts."
+      "Booom , Here you got your notification"
     );
   };
   return (
